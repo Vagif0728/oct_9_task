@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Home task 11\Home task 11\bin\Debug\net6.0\Home task 11.exe
+C:\Users\User\Desktop\Home task 11\Home task 11\bin\Debug\net6.0\Home task 11.deps.json
+C:\Users\User\Desktop\Home task 11\Home task 11\bin\Debug\net6.0\Home task 11.runtimeconfig.json
+C:\Users\User\Desktop\Home task 11\Home task 11\bin\Debug\net6.0\Home task 11.dll
+C:\Users\User\Desktop\Home task 11\Home task 11\bin\Debug\net6.0\Home task 11.pdb
+C:\Users\User\Desktop\Home task 11\Home task 11\obj\Debug\net6.0\Home task 11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Home task 11\Home task 11\obj\Debug\net6.0\Home task 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Home task 11\Home task 11\obj\Debug\net6.0\Home task 11.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Home task 11\Home task 11\obj\Debug\net6.0\Home task 11.AssemblyInfo.cs
+C:\Users\User\Desktop\Home task 11\Home task 11\obj\Debug\net6.0\Home task 11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Home task 11\Home task 11\obj\Debug\net6.0\Home task 11.dll
+C:\Users\User\Desktop\Home task 11\Home task 11\obj\Debug\net6.0\refint\Home task 11.dll
+C:\Users\User\Desktop\Home task 11\Home task 11\obj\Debug\net6.0\Home task 11.pdb
+C:\Users\User\Desktop\Home task 11\Home task 11\obj\Debug\net6.0\Home task 11.genruntimeconfig.cache
+C:\Users\User\Desktop\Home task 11\Home task 11\obj\Debug\net6.0\ref\Home task 11.dll
